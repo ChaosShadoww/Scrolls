@@ -1,4 +1,4 @@
-import { videoFeed } from "../components/video-feed";
+import { VideoFeed } from "../components/video-feed";
 import { SideNavigation } from "../components/side-navigation";
 
 export default function FeedPage() {
